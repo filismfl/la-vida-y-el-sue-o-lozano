@@ -1,2 +1,26 @@
-# la-vida-y-el-sue-o-lozano
-mensaje puebra
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Documento sin t&iacute;tulo</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #66FFFF;
+}
+.Estilo1 {
+	font-size: 24px;
+	font-weight: bold;
+}
+-->
+</style></head>
+
+<body>
+<div align="center" class="Estilo1">estas en la web para que veas lo mucho que me mueves</div>
+<div align="center">
+  <p class="Estilo1">xochitl dame una oportunidad</p>
+  <p>&nbsp;  </p>
+</div>
+<p align="center"><img src="../../Downloads/corrr.jfif" width="314" height="228" alt="co" /></p>
+</body>
+</html>
